@@ -2,9 +2,11 @@
 # 🌐 APP Calculo de IMC - Rafael Florindo
 
 [![React Native](https://img.shields.io/badge/React_Native-0.79.0-61DAFB?logo=react)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-50.0.3-000020?logo=expo)](https://expo.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![CSS-in-JS](https://img.shields.io/badge/Estilização-CSS--in--JS-blueviolet)](https://reactnative.dev/docs/style)
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
 [![Deploy](https://img.shields.io/badge/deploy-localhost-lightgrey)]()
-[![CSS](https://img.shields.io/badge/styling-CSS3-blue)]()
 
 Este é um APP de Cálculo de IMC educativo, desenvolvido com alunos do curso técnico em Desenvolvimento de Sistemas 2025 em React Native. O projeto tem como objetivo receber o peso e a altura do usuário, calcular o Índice de Massa Corporal (IMC) e apresentar os resultados com base nas faixas da Organização Mundial da Saúde, explicando cada classificação.
 
